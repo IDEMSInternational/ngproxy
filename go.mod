@@ -1,2 +1,2 @@
-module github.com/michaelclapham/ngproxy
+module github.com/idemsinternational/ngproxy
 go 1.15
